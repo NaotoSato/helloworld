@@ -16,4 +16,7 @@ bugFix1 issue1
 
 new function1
 
+##ISSUE1
+##ISSUE1 again
+
 bugFix issue2
