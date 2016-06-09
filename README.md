@@ -3,3 +3,5 @@
 ##gitmember
 
 *testmember
+
+gitTest
