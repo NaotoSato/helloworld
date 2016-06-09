@@ -5,3 +5,5 @@
 *testmember
 
 gitTest
+
+add gitTest1
