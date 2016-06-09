@@ -2,7 +2,7 @@
 
 ##gitmember
 
-*testmember
+*testmember*
 
 gitTest
 
