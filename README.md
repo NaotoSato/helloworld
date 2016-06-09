@@ -13,3 +13,5 @@ add gitTest2
 bugFix1 issue1
 
 diff issue1
+
+追加した場所
