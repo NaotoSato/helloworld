@@ -4,6 +4,8 @@
 
 *testmember
 
+##master
+
 gitTest
 
 add gitTest1
@@ -15,3 +17,7 @@ bugFix1 issue1
 bugFix issue2
 
 diff diff
+
+diff issue1
+
+追加した場所
