@@ -2,9 +2,13 @@
 
 ##gitmember
 
-*testmember
+*testmember*
 
 ##master
+
+##issue1
+
+##issue2
 
 gitTest
 
