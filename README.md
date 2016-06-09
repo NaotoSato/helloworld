@@ -4,6 +4,8 @@
 
 *testmember
 
+##issue1
+
 gitTest
 
 add gitTest1
