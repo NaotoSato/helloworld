@@ -31,6 +31,6 @@ diff diff
 
 diff issue1
 
-追加した場所
+deleteされた箇所に追加
 
 diff issue2
