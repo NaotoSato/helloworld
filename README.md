@@ -32,3 +32,7 @@ diff diff
 diff issue1
 
 deleteされた箇所に追加
+
+diff issue2
+
+test
