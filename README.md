@@ -31,6 +31,4 @@ diff diff
 
 diff issue1
 
-追加した場所
-
 diff issue2
