@@ -34,3 +34,5 @@ diff issue1
 deleteされた箇所に追加
 
 diff issue2
+
+pullせずに最下行に追加
