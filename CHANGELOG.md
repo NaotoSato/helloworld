@@ -1,4 +1,7 @@
 # Change Log
+
+**Merged pull requests:**
+
 - Collection event 4th [\#43](https://github.com/Furyu/himawari/pull/43) ([furyu-sumichell](https://github.com/furyu-sumichell))
 - \#10923【ストイベ後半】早期クリアのカウントダウンをストイベマイページへ表示 [\#42](https://github.com/Furyu/himawari/pull/42) ([kikuchikyoko](https://github.com/kikuchikyoko))
 - \#10740 中間ランキングに伴う集計処理の修正 [\#40](https://github.com/Furyu/himawari/pull/40) ([NaotoSato](https://github.com/NaotoSato))
